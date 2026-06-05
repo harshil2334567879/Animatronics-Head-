@@ -14,6 +14,6 @@ To power this massive project, I'll be a 12v and 20A power supply with a Buck Co
 
 I am leaving the codes up in the "Codes" Section. 
 
-This project was inspired by a YouTuber "Will-Cogley"
+This project was inspired by YouTuber "Will Cogley"
 
 Author - Harshil
